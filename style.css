@@ -380,7 +380,18 @@ li {
   /* height: 30vh; */
 }
 .testimomial-section {
-  height: 315px;
+  /* height: 315px; */
+
+  /* .cource1 { */
+  /* box-sizing: border-box; */
+  /* width: 338px; */
+  width: 31.5%;
+
+  /* padding: 10px; */
+  background-color: white;
+  border-radius: 20px;
+  text-align: left;
+  /* } */
   /* margin-left: -14%; */
 }
 
@@ -393,7 +404,8 @@ li {
 
 .testimonial-img {
   width: 80px;
-  margin-left: 120px;
+  /* margin-left: 120px; */
+  margin-left: 35%;
 }
 
 .testimonial-headding {
