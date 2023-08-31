@@ -791,6 +791,10 @@ li {
     width: 95%; */
   }
 
+  .cource-btn {
+    padding: 10px 40px;
+  }
+
   .cource1 {
     flex-direction: column;
     align-items: center;
@@ -801,6 +805,10 @@ li {
 
   .Consultation {
     margin-bottom: 10%;
+  }
+
+  .btn-last {
+    padding: 10px 110px;
   }
 
   /* ---------------------------------------- */
@@ -880,13 +888,9 @@ li {
     /* display: none; */
     position: absolute;
     width: 90%;
-    margin-top: 78%;
+    margin-top: 90%;
     left: 4vw;
   }
-
-  /* .community-hide {
-    display: inline-block;
-  } */
 
   .app-img {
     margin-top: 6vh;
